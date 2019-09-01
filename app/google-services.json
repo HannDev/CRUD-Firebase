@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912208443843",
+    "firebase_url": "https://fir-create-d280f.firebaseio.com",
+    "project_id": "fir-create-d280f",
+    "storage_bucket": "fir-create-d280f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912208443843:android:81e58a9151fdc1a0",
+        "android_client_info": {
+          "package_name": "id.abdurrahman.firebasecreate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912208443843-r9do6a5r7d8e8u2r6bo1j0d77o2ks1l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.abdurrahman.firebasecreate",
+            "certificate_hash": "bb8451b5bbb162d51caf1acb874451a4c2542d83"
+          }
+        },
+        {
+          "client_id": "912208443843-8d1v8cpq5iv5pc3qim4hcvkv1le5731s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGFgyuJam6Xv_msmJiSwEFKu4t3nV4nvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912208443843-8d1v8cpq5iv5pc3qim4hcvkv1le5731s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
